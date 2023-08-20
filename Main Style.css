@@ -1,0 +1,27 @@
+#mainBod{
+    background-color: tan;
+}
+
+h1{
+    margin-left: 40%;
+}
+p{
+    margin-left: 25%;
+}
+
+
+br{
+    background-color: black;
+}
+#vitaminTable{
+    background-color: blueviolet;
+}
+#solubleTable{
+    background-color: yellowgreen;
+}
+.leftVitaminSide{
+    width: 10%;
+}
+.solubleInfo{
+padding: 2%;
+}

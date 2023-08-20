@@ -1,0 +1,82 @@
+body{
+    background-color: brown;
+    color: black;
+}
+#string{
+    background-color: peru;  
+}
+
+nav{
+    height: 6000px;
+    width: 20px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-left: 35%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+#diceKing{
+    margin-left: 35%;
+    width: 300px;
+    height: 300px; 
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+}
+
+h3{
+    text-align: center;
+    font-style: italic;
+}
+
+button{
+    margin-left: 48%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-style: bold;
+    background-color: rgb(83, 83, 190);
+}
+
+#palidromeIdentify{
+    margin-left: 10%;
+}
+
+#userInput{
+    margin-left: 42%;
+    margin-top: 5%;
+    font-weight: 600;
+}
+
+#palidrome{
+    margin-left: 25%;  
+}
+
+#submit{
+    margin-left: 15%;
+    margin-top: 2%;
+    background-color: rgb(59, 108, 232);
+    font-weight: 800;
+}
+#startBtn{
+margin-left: 25%;
+}
+#stoptBtn{
+    margin: 0px;
+}

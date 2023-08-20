@@ -1,0 +1,24 @@
+body{
+    background-image: url(Rain_Forest_Pictures/rain_Forest.Main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin-left: 40%;
+    color: rgb(2, 4, 7);
+    margin-bottom: 3%;
+
+}
+#startWaterfall{
+    background-color: slateblue;
+    font-weight: 600;
+    margin-left: 32%;
+    padding: 1%;
+    
+}
+#stopWaterfall{
+    background-color: slateblue;
+    font-weight: 600;
+    margin-left: 10%;
+    padding: 1%;
+}
